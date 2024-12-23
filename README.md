@@ -36,3 +36,13 @@
 - **Run the project**: `npm run dev`
 - **Run tests**: `npm run test`
 - **Create a new component**: `npm run createComponent 'Name Of The Component'`
+
+![PokedexIMG1](https://drive.google.com/thumbnail?id=1XtKRRS6IsF8ZKSesppYwOAg84VJZO-68&sz=w1000)
+![PokedexIMG2](https://drive.google.com/thumbnail?id=1kqnFkrUPit4wF2lObK8_qoRvdl4MKkAt&sz=w1000)
+![PokedexIMG3](https://drive.google.com/thumbnail?id=1iwbKjPBRZThWHmzJwG-6aKUIp7kwc_sn&sz=w1000)
+![PokedexIMG4](https://drive.google.com/thumbnail?id=1-VHnYnvbEzSvBIE-iwSgrSF926n0T_MZ&sz=w1000)
+![PokedexIMG5](https://drive.google.com/thumbnail?id=121lGbN7xXuPbtX5hL8ymyX0qfMrKC9Z1&sz=w1000)
+![PokedexIMG6](https://drive.google.com/thumbnail?id=1FS0VJa-WVdoW2RkZvnEMzgYBfAFM47Wk&sz=w1000)
+![PokedexIMG7](https://drive.google.com/thumbnail?id=1bE4BD8qcyHR-mVLFIVbXhi9duUpMluzU&sz=w1000)
+![PokedexIMG8](https://drive.google.com/thumbnail?id=136MUCSkaj7o96cp4oy03wwJGTRw2gdW3&sz=w1000)
+![PokedexIMG9](https://drive.google.com/thumbnail?id=1ra0RJRCikEky7Ljcfb4--WBMSSM5icbX&sz=w1000)
