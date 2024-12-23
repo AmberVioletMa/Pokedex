@@ -1,0 +1,37 @@
+:root {
+  --color-primary: #DD1234;
+  --color-secondary: #FFC107;
+  --color-shadow: #121212;
+  --color-background: #ff3859;
+  --color-primary-background: #181B1D;
+  --color-secondary-background: #f5f5f5;
+  --color-secondary-complementary-background: #52AE5F;
+  --gap-xs: 4px;
+  --gap-sm: 8px;
+  --gap-md: 16px;
+  --gap-lg: 24px;
+  --gap-xl: 32px;
+  --border-radius-s: 8px;
+  --border-radius: 20px;
+  --border-radius-buttons: 30px;
+  --padding-gap-xs: 6px;
+  --padding-gap-sm: 12px;
+  --padding-gap-md: 24px;
+  --margin-gap-xs: 6px;
+  --margin-gap-sm: 12px;
+  --margin-gap-md: 24px;
+  --color-button-primary: #28ABFC;
+  --color-button-secondary: #960713;
+  --color-button-primary-hover: #19699E;
+  --color-button-secondary-hover: #72060f;
+  --padding-header: 50px;
+}
+
+#root {
+  width: 100%;
+  font-family: cursive;
+}
+
+input {
+  outline: none;
+}
